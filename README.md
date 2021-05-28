@@ -9,7 +9,7 @@ In this repository you will find the codes used to generate the results for our 
 ```
 @inproccedings{yu-itg2021,
 title={{Federated learning in ASR: Not as easy as you think}},
-author={{Wentao Yu, Jan Freiwald , Sören Tewes, Fabien Huennemeyer, Dorothea Kolossa}}
+author={{Wentao Yu, Jan Freiwald, Sören Tewes, Fabien Huennemeyer, Dorothea Kolossa}}
 }
 ```
 
