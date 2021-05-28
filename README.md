@@ -6,7 +6,11 @@ In this repository you will find the codes used to generate the results for our 
 
 (This will be updated after publication)
 
-Federated learning in ASR: Not as easy as you think
-Wentao Yu, Jan Freiwald , Sören Tewes, Fabien Huennemeyer, Dorothea Kolossa
-Institute of Communication Acoustics, Ruhr University Bochum, Germany
+```
+@inproccedings{yu-itg2021,
+title={{Federated learning in ASR: Not as easy as you think}},
+author={{Wentao Yu, Jan Freiwald , Sören Tewes, Fabien Huennemeyer, Dorothea Kolossa}}
+}
+```
+
 
