@@ -13,8 +13,6 @@ The same needs to be done with the espnet sources.
 
 # Cite as 
 
-(This will be updated after publication)
-
 ```
 @inproccedings{yu-itg2021,
 title={{Federated learning in ASR: Not as easy as you think}},
