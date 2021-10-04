@@ -20,7 +20,8 @@ The same needs to be done with the espnet sources.
 title={{Federated learning in ASR: Not as easy as you think}},
 author={{Wentao Yu, Jan Freiwald, Sören Tewes, Fabien Huennemeyer, Dorothea Kolossa}},
 journal = {ITG Conference on Speech Communication},
-year=2021
+year=2021,
+month = {October}
 }
 ```
 
